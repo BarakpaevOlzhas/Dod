@@ -1,0 +1,7 @@
+c:\users\баракпаево\source\repos\ThreadPoolLesson\ThreadPoolLesson\bin\Debug\ThreadPoolLesson.exe.config
+c:\users\баракпаево\source\repos\ThreadPoolLesson\ThreadPoolLesson\bin\Debug\ThreadPoolLesson.exe
+c:\users\баракпаево\source\repos\ThreadPoolLesson\ThreadPoolLesson\bin\Debug\ThreadPoolLesson.pdb
+c:\users\баракпаево\source\repos\ThreadPoolLesson\ThreadPoolLesson\obj\Debug\ThreadPoolLesson.csprojAssemblyReference.cache
+c:\users\баракпаево\source\repos\ThreadPoolLesson\ThreadPoolLesson\obj\Debug\ThreadPoolLesson.csproj.CoreCompileInputs.cache
+c:\users\баракпаево\source\repos\ThreadPoolLesson\ThreadPoolLesson\obj\Debug\ThreadPoolLesson.exe
+c:\users\баракпаево\source\repos\ThreadPoolLesson\ThreadPoolLesson\obj\Debug\ThreadPoolLesson.pdb
